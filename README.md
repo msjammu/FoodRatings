@@ -24,19 +24,20 @@ But more than just the app, this is my **“Learn in Public” journey**. I’m 
 ---
 
 ## 📚 Learn With Me  
-I’ll be sharing my progress in:  
+I'll be sharing my progress in:  
 - Blog posts inside the repo (markdown).  
-- Issues & discussions as “thinking out loud.”  
+- Issues & discussions as "thinking out loud."  
 - Commit history — every experiment is part of the journey.  
 
 💡 *My goal: not just to build an app, but to build a resource for anyone learning modern full-stack dev.*  
+
+**Learning Resources:** For curated learning materials and bite-sized tech tutorials, check out [BrightBites](https://github.com/msjammu/BrightBites) 🌟
 
 ---
 
 ## 📖 Blog
 - [Building FoodRatings with State-of-the-Art Tech](docs/blog/first-post.md)
 - [FoodRatings Market Research Report](docs/blog/market-research.md)
-- [Resources](docs/blog/resources.md)
 
 
 ## 🌟 Let’s Connect  
